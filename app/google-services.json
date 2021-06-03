@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "147599143508",
+    "project_id": "sociania-messenger",
+    "storage_bucket": "sociania-messenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147599143508:android:db3bd7c829b920573573c1",
+        "android_client_info": {
+          "package_name": "com.example.sociania_messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147599143508-20jj99ir6qjh13ma6f49rt2d6de6fgre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2b2p8GST-2-5g0Wp144ywcgCPGXRSVVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147599143508-20jj99ir6qjh13ma6f49rt2d6de6fgre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
